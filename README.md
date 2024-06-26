@@ -15,8 +15,6 @@ This spam email detector leverages two key techniques:
 2. #### Logistic Regression
 - Logistic regression is a type of supervised learning algorithm used for binary classification tasks, such as spam vs. non-spam email detection.
 
----
-
 ## Usage
 
 #### Installation
@@ -40,13 +38,9 @@ Run the spam email detector:
 
 3. **Exiting the Program**: Type "exit" to exit the program.
 
----
-
 ## Contributing
 
 Contributions are welcome! If you'd like to improve the accuracy, add features, or suggest enhancements, please feel free to submit a pull request.
-
----
 
 ## License
 

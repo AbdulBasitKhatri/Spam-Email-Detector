@@ -2,6 +2,8 @@
 
 This project implements a spam email detector using TF-IDF vectorization and logistic regression. The `main.py` script trains the model and allows users to input emails continuously for spam detection until they type "exit" to quit.
 
+![Spam Email Detector](images/spamEmailDetector.png)
+
 ## Overview
 
 This spam email detector leverages two key techniques:
